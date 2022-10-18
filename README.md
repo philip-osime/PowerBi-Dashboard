@@ -6,4 +6,4 @@ The dataset is obtained from the [The Department for Levelling Up, Housing and C
 The excel file name Table 118 live was used to create dashboard.
 
 ## Result
-![Net Housing Supply England]()
+![Net Housing Supply England](https://github.com/philip-osime/PowerBi-Dashboard/blob/main/Dashboard_Department%20for%20Levelling%20Up.PNG)
